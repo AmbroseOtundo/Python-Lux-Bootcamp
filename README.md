@@ -1,1 +1,1 @@
-This Repo contains my workout on the python boocamp
+This Repo contains my workout on the python bootcamp
